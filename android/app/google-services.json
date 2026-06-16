@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573697436801",
+    "project_id": "screenshot-gallery-e3e8d",
+    "storage_bucket": "screenshot-gallery-e3e8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573697436801:android:2b5c073e1edb390ee43180",
+        "android_client_info": {
+          "package_name": "com.example.screenshot_gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqfiIZqDkfD0UJK0xNoWY8ZAGZnytyE14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
