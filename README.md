@@ -1,17 +1,49 @@
-# screenshot_gallery
+## Screenshot Gallery App
 
-A new Flutter project.
+A Flutter-based mobile application that allows users to capture, store, and manage screenshots/images efficiently using cloud backend services like Firebase and Cloudinary.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+-Capture and upload screenshots/images
 
-A few resources to get you started if this is your first Flutter project:
+-Cloud storage integration (Firebase / Cloudinary)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+-Anonymous or authenticated user support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Real-time image count tracking
+
+-Organized gallery view
+
+-Fast and responsive UI
+
+-Auto-sync with backend
+
+-Tech Stack
+
+# Frontend:
+
+-Flutter (Dart)
+
+-Material Design UI
+
+# Backend:
+
+-Firebase Authentication
+
+-Firebase Firestore
+
+-Firebase Storage / Cloudinary
+
+# Future Improvements
+-AI-based image tagging
+
+-Folder/album system
+
+-Search & filters
+
+-Multi-user shared galleries
+
+-Cross-device sync improvements
+
+-Analytics dashboard (uploads, usage trends)
+
