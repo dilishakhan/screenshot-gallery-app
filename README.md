@@ -1,8 +1,8 @@
-## Screenshot Gallery App
+# Screenshot Gallery App
 
 A Flutter-based mobile application that allows users to capture, store, and manage screenshots/images efficiently using cloud backend services like Firebase and Cloudinary.
 
-# Features
+## Features
 
 -Capture and upload screenshots/images
 
@@ -20,13 +20,13 @@ A Flutter-based mobile application that allows users to capture, store, and mana
 
 -Tech Stack
 
-# Frontend:
+## Frontend:
 
 -Flutter (Dart)
 
 -Material Design UI
 
-# Backend:
+## Backend:
 
 -Firebase Authentication
 
@@ -34,7 +34,8 @@ A Flutter-based mobile application that allows users to capture, store, and mana
 
 -Firebase Storage / Cloudinary
 
-# Future Improvements
+## Future Improvements
+
 -AI-based image tagging
 
 -Folder/album system
